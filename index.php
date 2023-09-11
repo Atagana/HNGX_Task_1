@@ -18,8 +18,8 @@ exit();
     $current_day = date('l');
     $utc_time = date('Y-m-d\TH:i:s\Z');;
     $track = $_GET['track'];
-    $github_repo_url = 'https://github.com/Atagana/HNG_X_Task_1/blob/main/index.php';
-    $github_url = 'https://github.com/Atagana/HNG_X_Task_1';
+    $github_repo_url = 'https://github.com/Atagana/HNGX_Task_1/blob/main/index.php';
+    $github_url = 'https://github.com/Atagana/HNGX_Task_1';
     $status_code = 200;
     
     $data = [
